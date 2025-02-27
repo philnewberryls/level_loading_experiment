@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bq1clpsxn8abk"]
+
+[ext_resource type="Script" path="res://level_manager/levels/level.gd" id="1_lqwan"]
+
+[node name="Level3" type="Node2D"]
+script = ExtResource("1_lqwan")
+enemies_to_spawn = 10
